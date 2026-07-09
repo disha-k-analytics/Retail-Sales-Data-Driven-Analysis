@@ -34,7 +34,10 @@ Data insights are only valuable when aligned with corporate strategy and communi
 ## 🎓 Verified Course Certificate
 Below is the official completion certificate for Course 2 issued by Google via Coursera:
 
-[![Google Data Analytics Course 2 Certificate](https://github.com)](https://coursera.org)
+<a href="https://coursera.org" target="_blank">
+  <img src="https://github.com" alt="Google Data Analytics Course 2 Certificate" width="100%">
+</a>
+
 
 
 
